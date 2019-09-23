@@ -226,8 +226,8 @@ namespace Assignment1_F19
                         }
                         else
                         {
-                            // count = 0;
-                            break;
+                            //count = 0;
+                            //break;
                         }
                     }
                 }
